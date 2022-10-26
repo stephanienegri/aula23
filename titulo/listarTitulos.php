@@ -63,8 +63,9 @@
             <div class="collapse navbar-collapse justify-content-end" id="mynavbar">
                 <div class="navbar-nav">
                     <a href="../escola.php" class="nav-link">Início</a>
-                    <a href="cadastroTitulos.php" class="nav-link">Cadastrar</a>
-                    <a href="listarTitulos.php" class="nav-link">Listar</a>
+                    <a href="#" class="nav-link">Cadastrar</a>
+                    <a href="#" class="nav-link">Listar</a>
+                    <a href="excluirTitulos.php" class="nav-link">Excluir</a>
                 </div>
             </div>
         </nav>
