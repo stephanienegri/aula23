@@ -45,7 +45,7 @@
 
 /* tabelas */
 .my-table-hover tbody > tr:hover {
-    background-color: #a1cc9c4f;
+    background-color: gray;
 }
 
 .my-table-image td {
